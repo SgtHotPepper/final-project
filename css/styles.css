@@ -1,3 +1,26 @@
+body {
+    background-color: #262626;
+}
 h1 {
     font-family: 'Fuzzy Bubbles', cursive, Arial, Helvetica, sans-serif;
+    color: #0066ff;
+}
+a:link {
+    text-decoration: none;
+    color: #0066ff;
+    vertical-align: super;
+    margin: 15px; 
+    font-family: 'Fuzzy Bubbles', cursive, Arial, Helvetica, sans-serif;
+}
+a:visited {
+    color: #0066ff;
+}
+a:active {
+    color: #0066ff;
+}
+.navbar {
+    background-color: #262626;
+    border: solid 1px #0066ff;
+    padding: 5px;
+    position: sticky; top: 15px;
 }
