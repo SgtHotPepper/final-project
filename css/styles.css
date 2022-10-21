@@ -73,3 +73,8 @@ input[type=text], select, textarea {
     font-family: 'Fuzzy Bubbles', cursive, Arial, Helvetica, sans-serif;
     color: #3385ff;
   }
+  footer {
+    background-color: #262626;
+    border: solid 5px #0066ff;
+    padding: 15px;
+  }
