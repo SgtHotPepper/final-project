@@ -108,6 +108,9 @@ li {
 .fl {
   float: left;
 }
+.fr {
+  float: right;
+}
 .inline {
   display: inline;
 }
@@ -137,4 +140,14 @@ hr {
 }
 section {
   padding: 5px;
+}
+.br1 {
+  float: left;
+  padding-left: 125px;
+  padding-bottom: 15px;
+}
+.br2 {
+  float: right;
+  padding-right: 125px;
+  padding-bottom: 15px;
 }
